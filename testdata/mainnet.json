@@ -1,0 +1,23 @@
+{
+ "_source": "blocks_info from https://rpc.nano.to and https://rainstorm.city/api, 2026-11-02, both nodes returned identical contents; confirmed:true",
+ "blocks": [
+  {"hash":"F6BF9D8D88114071DBADF166F0BA82A0F98AF8042AB892AC4FEC19366DC1D6B8","subtype":"send",
+   "account":"nano_1hk1cu3773u5r39e75mtqrauzro75j3hwdzyewz8izokzur66semy739w14h",
+   "previous":"FC9D64163DACDE8807D478C4CE76174B38415AE42D5CA4E034B30323318780EE",
+   "representative":"nano_3patrick68y5btibaujyu7zokw7ctu4onikarddphra6qt688xzrszcg4yuo",
+   "balance":"18680769000000000000000000000000",
+   "link":"8789CF4B88407CB006F5A53F6FEEECFCDC6E56F8AE51B9BBF806317A33643490",
+   "link_as_account":"nano_33wbsx7rii5wp15hdbbzfzqgsz8wfsdhjdkjq8xzi3jjhaspaf6iuuzwcjk8",
+   "signature":"FBCDFB05CFB28B94C4273725C81323D8FCEF2F21C2034044DA5134CF411AB3D698A59F0823C1857E90558FCED0ED9A0A97B02DF9CE678BB860B4B245198DE40D",
+   "work":"00008087fcce3a16"},
+  {"hash":"BCE621224274F7DCB1B9BFB212CF9E5CADC50B47E8BEA5C2E4ED0F063566D85B","subtype":"open",
+   "account":"nano_33wbsx7rii5wp15hdbbzfzqgsz8wfsdhjdkjq8xzi3jjhaspaf6iuuzwcjk8",
+   "previous":"0000000000000000000000000000000000000000000000000000000000000000",
+   "representative":"nano_33wbsx7rii5wp15hdbbzfzqgsz8wfsdhjdkjq8xzi3jjhaspaf6iuuzwcjk8",
+   "balance":"500000000000000000000000000",
+   "link":"F6BF9D8D88114071DBADF166F0BA82A0F98AF8042AB892AC4FEC19366DC1D6B8",
+   "link_as_account":"nano_3xozmp8ri6c1g9ftuwd8y4xa7a9sjdw1acorkcp6zu1s8spw5oorm4jfe486",
+   "signature":"57DFC0ECF2DFF0C03FB0BC1E9355DDEF1ACAC96704DAD9369D44ADEC1828D639B6A2431E40F43A102C6250B5E1147E63B6F50C8C85971289BA7A888B42037009",
+   "work":"58fc8abfa35fcfee"}
+ ]
+}
